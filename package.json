@@ -1,0 +1,13 @@
+{
+  "name": "communityconnect",
+  "version": "1.0.0",
+  "description": "CommunityConnect - Neighbors Helping Neighbors",
+  "main": "server/server.js",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
